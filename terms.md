@@ -1,49 +1,90 @@
-# Terms of Service for Patterns: Habit Tracker
-**Last updated: July 5, 2026**
-Welcome to Patterns: Habit Tracker ("Patterns," "the App," "we," "us"). These Terms of Service ("Terms") govern your use of the App. By downloading, accessing, or using Patterns, you agree to these Terms. If you don't agree, please don't use the App.
-## 1. Eligibility
-You must be at least 13 years old to use Patterns. If you are under the age of majority in your jurisdiction, you confirm you have permission from a parent or guardian to use the App.
-## 2. Your Account
-- You're responsible for maintaining the security of your account and any activity that happens under it.
-- You agree to provide accurate information when creating your account.
-- You may delete your account at any time from Settings within the App. See our Privacy Policy for what happens to your data when you do.
-## 3. Subscriptions and Payments
-- Patterns offers a free tier and an optional paid Premium subscription (unlimited habits, insights, and additional themes).
-- Subscriptions are billed through the Apple App Store or Google Play, and are subject to their respective payment terms, not ours directly.
-- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period. Manage or cancel your subscription through your Apple ID or Google Play account settings — we cannot process cancellations or refunds on Apple's or Google's behalf.
-- Refunds are handled according to Apple's and Google's own refund policies.
-## 4. Acceptable Use
+# Terms of Use
+
+**Effective:** July 26, 2026  
+**Last updated:** July 26, 2026  
+
+These Terms of Use (“Terms”) govern your access to and use of the Patterns habit-tracking application, websites, and related services (collectively, the “Service”). By creating an account, checking “I agree,” or using the Service, you agree to these Terms and our [Privacy Policy](./privacy.md).
+
+## 1. Who we are; governing law (Missouri)
+
+The Service is operated by Patterns. These Terms are governed by the laws of the **State of Missouri, United States**, without regard to conflict-of-law rules. Subject to applicable law, disputes arising out of these Terms or the Service will be resolved in the state or federal courts located in the State of Missouri, and you consent to personal jurisdiction there.
+
+We design these Terms and our privacy practices to comply with applicable U.S. federal law and Missouri requirements that commonly apply to consumer apps, including the Missouri Merchandising Practices Act (MMPA) and Missouri’s data breach notification statute (Mo. Rev. Stat. § 407.1500).
+
+## 2. Eligibility and accounts
+
+- You must be at least 13 years old to use the Service.
+- If you are under 18, you may use the Service only with a parent or legal guardian’s consent, and you may not purchase Premium without a parent/guardian who can form a binding contract.
+- You must provide accurate registration information and keep your login credentials secure.
+- Email verification is required before full access.
+
+## 3. The Service (and what it is not)
+
+Patterns helps you create habits, track check-ins, set reminders, optionally sync events to Google Calendar, join social challenges with friends, use travel mode, and (if you subscribe) access Premium features.
+
+**Patterns is not a medical, mental-health, therapy, or clinical service.** Content, streaks, AI suggestions, quotes, and challenges are for personal wellness and productivity only and are not medical advice, diagnosis, or treatment. Always seek a qualified professional for health decisions. If you are in crisis, contact local emergency services or a crisis hotline immediately.
+
+## 4. Acceptable use
+
 You agree not to:
-- Use the App for any unlawful purpose
-- Impersonate another person or misrepresent your affiliation
-- Harass, abuse, or send unwanted content to other users through the friends/groups/challenges features
-- Attempt to reverse-engineer, decompile, or interfere with the App's normal operation
-- Use the App to store or share content that is illegal, hateful, or infringes on others' rights
-We reserve the right to suspend or terminate accounts that violate these terms.
-## 5. Social Features (Friends, Groups, Challenges)
-- Content you share with friends or groups (habit names, streak updates, shared challenge progress) is visible to the other members of that friend connection or group, as described in our Privacy Policy.
-- We provide preset, positive-only messages for encouraging friends (rather than open text) specifically to reduce the risk of harassment through the App. Attempting to circumvent this restriction is a violation of these Terms.
-- You're responsible for the conduct of your own account within any group or challenge you join.
-## 6. Your Content
-- You retain ownership of any personal notes, habit names, or content you create in the App.
-- By using social features, you grant other users you've connected with (friends/group members) the ability to view the specific content you choose to share with them (e.g., streak counts, challenge progress).
-- We do not claim ownership of your personal data or content.
-## 7. Intellectual Property
-The App's design, branding, code, and features (excluding your own personal content) are owned by us and protected by applicable intellectual property laws. You may not copy, modify, or redistribute the App itself.
-## 8. Disclaimers
-- Patterns is a habit-tracking and productivity tool. It is **not** medical, psychological, or professional advice. If you're using the App in connection with a health condition, consult a qualified professional.
-- The App is provided "as is" without warranties of any kind, express or implied, including but not limited to fitness for a particular purpose or uninterrupted availability.
-- We do not guarantee that using the App will result in any particular outcome (e.g., successfully forming or maintaining a habit).
-## 9. Limitation of Liability
-To the maximum extent permitted by law, Patterns and its creators are not liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to loss of data, missed reminders, or reliance on in-app insights.
-## 10. Changes to the App or These Terms
-We may update these Terms from time to time. Continued use of the App after changes take effect constitutes acceptance of the updated Terms. We'll update the "Last updated" date above when changes are made.
-## 11. Termination
-We may suspend or terminate your access to the App at our discretion if you violate these Terms. You may stop using the App and delete your account at any time.
-## 12. Governing Law
-These Terms are governed by the laws of the State of Missouri, United States, without regard to conflict of law principles.
-## 13. Contact Us
-Questions about these Terms? Contact us at:
-**dondy.dorlus2@gmail.com**
+
+- Harass, abuse, or harm others, or post unlawful, hateful, or infringing content
+- Attempt to access another user’s private habits, logs, trips, or settings
+- Probe, scrape, reverse engineer, or disrupt the Service or its security
+- Use the Service to send spam or automated abuse
+- Misrepresent your identity or affiliation
+- Violate any applicable law, including Missouri and U.S. consumer protection laws
+
+We may suspend or terminate accounts that violate these Terms.
+
+## 5. Your content
+
+You retain ownership of the habits, notes, media, goals, and other content you submit (“User Content”). You grant us a limited license to host, process, display, and back up User Content solely to operate and improve the Service. Social features (friends, groups, challenges, leaderboards) may share limited activity you choose to make visible.
+
+## 6. Premium subscriptions and payments
+
+- Paid plans may be billed through Stripe, Wix, and/or Apple App Store / Google Play, as offered in your region.
+- Prices, billing intervals, and taxes are shown at checkout.
+- Subscriptions renew automatically until you cancel through the applicable store/checkout portal or Account settings instructions we provide.
+- Except where required by law, fees are generally non-refundable once a billing period begins.
+- We do not store full payment card numbers on our servers; processors handle card data under their own terms and PCI obligations.
+- Store-billed subscriptions are also subject to Apple’s or Google’s terms; refunds for those purchases are handled by the store.
+
+## 7. Reminders, push, and calendar
+
+Browser notifications, web push, and Google Calendar sync are optional. Delivery depends on your device settings, browser/OS support, network conditions, and third-party services. We do not guarantee that every reminder will be delivered, especially when the app is closed.
+
+## 8. Third-party services
+
+The Service may integrate Google sign-in, Google Calendar, payment processors, analytics, hosting, and email delivery. Those services are governed by their own terms and privacy policies.
+
+## 9. Disclaimers
+
+THE SERVICE IS PROVIDED “AS IS” AND “AS AVAILABLE.” TO THE MAXIMUM EXTENT PERMITTED BY MISSOURI AND FEDERAL LAW, WE DISCLAIM WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. We do not warrant uninterrupted or error-free operation, or that streaks, sync, or social features will meet your expectations.
+
+## 10. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, Patterns and its operators will not be liable for indirect, incidental, special, consequential, or punitive damages, or for lost profits, data, or goodwill. Our total liability for claims relating to the Service will not exceed the greater of (a) amounts you paid us for the Service in the twelve (12) months before the claim or (b) fifty U.S. dollars (US $50). Some jurisdictions do not allow certain limitations; in those cases, our liability is limited to the fullest extent allowed.
+
+## 11. Indemnity
+
+You agree to defend and indemnify Patterns against claims arising from your User Content, misuse of the Service, or violation of these Terms, except to the extent caused by our willful misconduct.
+
+## 12. Termination and account deletion
+
+You may stop using the Service at any time and may request account deletion in Settings / Account or by emailing hello@patternshabit.app or dondy.dorlus2@gmail.com. We may suspend or terminate access for violations, risk, or prolonged inactivity.
+
+## 13. Changes
+
+We may update these Terms. Material changes will be posted here with an updated effective date. Continued use after the effective date constitutes acceptance, except where Missouri or federal law requires additional consent.
+
+## 14. Contact
+
+- **hello@patternshabit.app**
+- **dondy.dorlus2@gmail.com**
+
+See also our [Privacy Policy](./privacy.md).
+
 ---
-*This is a starting template, not a substitute for legal advice. If you plan to scale, add more complex monetization, or operate internationally, have a lawyer review this — particularly the Limitation of Liability and Governing Law sections, which vary significantly by jurisdiction.*
+
+*Operational template for the product — not a substitute for advice from a licensed Missouri attorney.*
