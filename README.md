@@ -8,7 +8,7 @@ Public legal documents for **Patterns** (habit tracker).
 | Terms of Use | [terms.md](./terms.md) | `/terms` |
 | Cookie & Local Storage Policy | [cookies.md](./cookies.md) | `/cookies` |
 
-**Effective / last updated:** July 26, 2026  
+**Effective / last updated:** July 27, 2026  
 **Governing law:** State of Missouri, United States  
 
 ## Contact

@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective:** July 26, 2026  
-**Last updated:** July 26, 2026  
+**Last updated:** July 27, 2026  
 
 This Privacy Policy explains how Patterns (“we,” “us”) collects, uses, shares, and protects personal information when you use our habit-tracking app and related services (the “Service”).
 
@@ -49,13 +49,17 @@ We voluntarily offer access, correction, and deletion controls to all users, inc
 - Send transactional emails (verification, password reset, important account notices)
 - Optional product tips or marketing emails where permitted — you can unsubscribe
 - Analyze aggregated usage to improve reliability and features
+- Power the optional AI features you choose to use (habit step suggestions, goal coaching, grammar help)
 - Comply with law, including Missouri breach-notification duties if applicable
+
+**AI features.** When you use an AI feature, the text you provide for it — such as a habit or goal name, your notes, schedule, and "why" — is sent to our platform provider (Base44) and its AI model providers to generate a suggestion in the moment. AI suggestions are automated, may be imperfect, and are **not** medical, mental-health, or financial advice — use your own judgment. We do not sell this content or use it to build advertising profiles; the providers process it under their own terms.
 
 ## 4. How we share information
 
 We do **not** sell your personal information for money. We share data only as needed with:
 
 - **Service providers** (hosting, auth, email, analytics, push, payment processors) under contractual confidentiality and security expectations
+- **AI / model providers** (via our platform provider, Base44) — only to generate the AI suggestions you request
 - **Other users you choose** (friends, groups, challenges) for social features
 - **Legal / safety** when required by law, to protect rights, or to prevent fraud/harm
 - **Business transfers** (merger/acquisition) with notice where required

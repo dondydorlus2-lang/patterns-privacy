@@ -1,7 +1,7 @@
 # Terms of Use
 
 **Effective:** July 26, 2026  
-**Last updated:** July 26, 2026  
+**Last updated:** July 27, 2026  
 
 These Terms of Use (“Terms”) govern your access to and use of the Patterns habit-tracking application, websites, and related services (collectively, the “Service”). By creating an account, checking “I agree,” or using the Service, you agree to these Terms and our [Privacy Policy](./privacy.md).
 
@@ -23,6 +23,8 @@ We design these Terms and our privacy practices to comply with applicable U.S. f
 Patterns helps you create habits, track check-ins, set reminders, optionally sync events to Google Calendar, join social challenges with friends, use travel mode, and (if you subscribe) access Premium features.
 
 **Patterns is not a medical, mental-health, therapy, or clinical service.** Content, streaks, AI suggestions, quotes, and challenges are for personal wellness and productivity only and are not medical advice, diagnosis, or treatment. Always seek a qualified professional for health decisions. If you are in crisis, contact local emergency services or a crisis hotline immediately.
+
+AI-generated suggestions (such as habit steps and goal coaching) are automated and may be inaccurate, incomplete, or unsuitable for you. You are responsible for deciding whether to follow them, and for exercising normal care and safety.
 
 ## 4. Acceptable use
 
@@ -56,7 +58,7 @@ Browser notifications, web push, and Google Calendar sync are optional. Delivery
 
 ## 8. Third-party services
 
-The Service may integrate Google sign-in, Google Calendar, payment processors, analytics, hosting, and email delivery. Those services are governed by their own terms and privacy policies.
+The Service may integrate Google sign-in, Google Calendar, payment processors, analytics, hosting, email delivery, and AI/model providers (via our platform provider, Base44) used to generate optional AI suggestions. Those services are governed by their own terms and privacy policies.
 
 ## 9. Disclaimers
 
